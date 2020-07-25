@@ -1,5 +1,5 @@
 # JavaScript (ES6 - ECMAScript6)
-[Functions](#foo)
+[Functions](#Functions)
 
 ## What is a Scripting Language?
 All scripting languages are programming languages. The scripting language do not require the compilation step and are rather interpreted. This is basically a language where instructions are written for a run time environment.
@@ -178,7 +178,7 @@ At times, certain instructions require repeated execution. Loops are an ideal wa
 - **Using labels to Control the flow** - A **label** is simply an identifier followed by a colon (`:`) that is applied to a statement or block of code. A label can be used with `break` and `continue` to control the flow more precisely.
 <br><br>
 
-(#foo)
+
 ## Functions
 Functions are the building blocks of readable, maintable and reusable code. They are defined using the `function` keyword.
 > function function_name() {
