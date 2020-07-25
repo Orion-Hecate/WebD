@@ -1,5 +1,5 @@
 # JavaScript (ES6 - ECMAScript6)
-[Functions](##Functions)
+[Functions](#Functions)
 
 ## What is a Scripting Language?
 All scripting languages are programming languages. The scripting language do not require the compilation step and are rather interpreted. This is basically a language where instructions are written for a run time environment.
@@ -178,7 +178,7 @@ At times, certain instructions require repeated execution. Loops are an ideal wa
 - **Using labels to Control the flow** - A **label** is simply an identifier followed by a colon (`:`) that is applied to a statement or block of code. A label can be used with `break` and `continue` to control the flow more precisely.
 <br><br>
 
-
+<a name="Functions">
 ## Functions
 Functions are the building blocks of readable, maintable and reusable code. They are defined using the `function` keyword.
 > function function_name() {
@@ -276,7 +276,7 @@ Output:
 Lambda refers to anonymous functions in programming. Lamda fucntions are a concise mechanism to represent anonymous functions. These functions are also called as **Arrow functions**.
 - **Lambda Function - Anatomy**
 <br><br>
-
+</a>
 
 ## Data Types in JavaScript
 JavaScript variables can hold many data types: numbers, strings, objects and more. In a programming language, data types is an important concept. To be able to operate on variables, it is important to know something about the type.
