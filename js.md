@@ -1,5 +1,5 @@
 # JavaScript (ES6 - ECMAScript6)
-[Functions](#Functions)
+[Functions](##Functions)
 
 ## What is a Scripting Language?
 All scripting languages are programming languages. The scripting language do not require the compilation step and are rather interpreted. This is basically a language where instructions are written for a run time environment.
