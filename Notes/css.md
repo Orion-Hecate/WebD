@@ -65,6 +65,11 @@ The position property specifies the type of positioning method used for an eleme
 <br><br>
 
 
+## !important
+The `!important` propert in CSS is used to provide more weight (importance) than normal property. In CSS, the `!important` means that **"this is important", ignores all the subsequent rules and apply !important rule**. The `!important` keyword must be placed at the end of the line, immediately before the semicolon.
+<br><br>
+
+
 ## CSS z-index property
 The **z-index** property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order. It only works on positioned elements (position: absolute, position: relative, position: fixed or position: sticky).
 <br><br>
