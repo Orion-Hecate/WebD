@@ -33,6 +33,7 @@ There are several DOMs in existence.
     - *attributes*
     - *getAttribute()*
     - *setAttribute()*
+    - *addEventListener()*
 <br><br>
 
 
