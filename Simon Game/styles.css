@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: teal;
+}
+
+/* Heading Styles  */
+.main-heading {
+    font-family: Courgette;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.game-icon {
+    font-size: 6rem;
+}
+
+/* Button Styles */
+.button {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    outline: none;
+    border: 5px solid #000;
+    border-radius: 20px;
+    color: #fff;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+.light {
+    opacity: 0.85;
+}
+
+/* Action Styles */
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}

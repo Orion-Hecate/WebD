@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <!-- Meta Data -->
+        <meta charset="UTF-8">
+
+        <title>Simon Game</title>
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <!-- Bootstrap Scripts -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+
+        <!-- External Style Sheet -->
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <!-- Heading  -->
+        <h1 class="main-heading">
+            Press A key to Start
+            <i class="fa fa-gamepad game-icon"></i>
+        </h1>
+        
+        <!-- Buttons -->
+        <div class="row">
+            <!-- Row-1 -->
+            <div class="col lg-6">
+                <button class="button light" id="red"></button>
+                <button class="button light" id="blue"></button>
+            </div>
+
+            <!-- Row-2 -->
+            <div class="col lg-6">
+                <button class="button light" id="green"></button>
+                <button class="button light" id="yellow"></button>
+            </div>
+        </div>
+
+        <!-- jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+        <!-- External JS Script -->
+        <script src="index.js" charset="UTF-8"></script>
+    </body>
+</html>
