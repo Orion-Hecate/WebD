@@ -42,14 +42,6 @@ app.listen(3000, () => console.log('Example app listening at http://localhost:30
 <br><br>
 
 
-## Nodemon
-<br><br>
-
-
-## Body Parser
-<br><br>
-
-
 ## Application Programmin Interfaces (APIs)
 APIs is a set of commands, functions, protcols and objects that programmers can use to **create software** or **interact with an external system**. APIs work using **requests** and **responses**. When an API requests information from a web application or web server, it will receive a response.<br><br>
 
@@ -87,11 +79,11 @@ APIs is a set of commands, functions, protcols and objects that programmers can 
 <br><br>
 
 
-## Postman
+## Nodemon
 <br><br>
 
 
-## JavaScript Object Notation (JSON)
+## Postman
 <br><br>
 
 

@@ -56,5 +56,12 @@
 <br><br>
 
 
+## External Node Modules
+1. ***Express***
+2. ***Body Parser***
+3. ***Request***
+<br><br>
+
+
 ## Node Package Manager (NPM)
 <br><br>
