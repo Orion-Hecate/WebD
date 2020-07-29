@@ -93,3 +93,7 @@ APIs is a set of commands, functions, protcols and objects that programmers can 
 
 ## JavaScript Object Notation (JSON)
 <br><br>
+
+
+## Error Codes
+<br><br>
