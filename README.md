@@ -10,8 +10,8 @@ The skeleton code includes the external css style path, external js script path,
         <!-- Meta Data -->
         <meta charset="UTF-8">
         <title></title>
-        <!-- External Style Sheet -->
-        <link rel="stylesheet" href="styles.css">
+        <!-- BootStrap Style Sheet -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
         <!-- Bootstrap Scripts -->
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
             integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -22,6 +22,8 @@ The skeleton code includes the external css style path, external js script path,
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
             integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
             crossorigin="anonymous"></script>
+        <!-- External Style Sheet -->
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
         <!-- jQuery -->
