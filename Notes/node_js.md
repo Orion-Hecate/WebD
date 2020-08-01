@@ -50,6 +50,10 @@
 <br><br>
 
 
+## Node Package Manager (NPM)
+<br><br>
+
+
 ## Node Built-in Modules (or Packages)
 1. ***File System Module***
 2. ***https***
@@ -60,8 +64,9 @@
 1. ***Express***
 2. ***Body Parser***
 3. ***Request***
+4. ***EJS***
 <br><br>
 
 
-## Node Package Manager (NPM)
+## Template vs Layout
 <br><br>
